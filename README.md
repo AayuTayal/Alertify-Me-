@@ -1,1 +1,1 @@
-# Alertify-Me-
+# AlertifyMe
